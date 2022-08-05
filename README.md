@@ -33,8 +33,17 @@ The project was divided into two parts:
  * **Part 2**: The focus is on Exploratory Analysis to answer business questions, where the data is manipulated through Data Wrangling with Pandas and analyzed by different perspectives.
 
 ***
+## 3. SOLUTION PLANNING
+
+- [x] **Step 01:** **Exploratory Data Analysis**:
+
+	* EDA 1
+	* EDA 2
+
+- [x] **Step 02:** **Feature Engineering**:
 
 
+- [x] **Step 03:** **Pre Processing**:
 
 ***
 
