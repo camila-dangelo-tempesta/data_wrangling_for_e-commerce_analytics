@@ -1,4 +1,4 @@
-# **EDA_Data_Wrangling_E-Commerce_Analytics**
+# **EDA and Data Wrangling for E-Commerce Analytics**
 
 ## Exploratory Analysis and Data Wrangling For E-Commerce Analytics
 
