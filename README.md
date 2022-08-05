@@ -13,7 +13,7 @@ The only personal data about the customer that is available is gender.
 
 <div align="center">
 <p float="left">
-    <img src="/images/ecommerce.jpg" width="1000" height="500"/>
+    <img src="/images/ecommerce.jpg" width="750" height="500"/>
 </p>
 </div>
 
