@@ -13,7 +13,7 @@ The only personal data about the customer that is available is gender.
 
 <div align="center">
 <p float="left">
-    <img src="/images/pandas.png" width="1000" height="500"/>
+    <img src="/images/ecommerce.jpg" width="750" height="500"/>
 </p>
 </div>
 
@@ -33,8 +33,42 @@ The project was divided into two parts:
  * **Part 2**: The focus is on Exploratory Analysis to answer business questions, where the data is manipulated through Data Wrangling with Pandas and analyzed by different perspectives.
 
 ***
+## 3. SOLUTION PLANNING
 
+- [x] **Step 01:** **Data Cleaning**
+	* Data Description
+	* Data Dimensions
+	* Data Types
+	* Chech NA
+	* Fill Na
+	* Data View
 
+- [x] **Step 02:** **EDA Part 1**
+1. **Separation of Categorical and Numerical Variables**
+	* **Exploring Numerical Variables**
+		* Descriptive Statistica
+	* **Exploring Categorical Variables**
+		* Descriptive Statistica
+
+2. **Variable Analysis Answer**: Target
+
+3. **Univariate Analysis**
+	* **Numerical Variables**
+		* Box Plots
+		* Dist Plots
+		* Violin Plots
+	* **Categorical Variables**
+		* Count Plot
+
+4. **Bivariate Analysis**
+	* **Numerical Variables**
+		* Correlation Map
+		* Pair Plot
+	* **Categorical Variables**
+		* Count Plot
+		* kdeplot
+
+- [x] **Step 03:** **EDA Part 2**
 
 ***
 
