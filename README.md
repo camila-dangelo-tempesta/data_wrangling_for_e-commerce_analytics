@@ -68,7 +68,7 @@ The project was divided into two parts:
 		* Count Plot
 		* kdeplot
 
-- [x] **Step 03:** **EDA Part 2
+- [x] **Step 03:** **EDA Part 2**
 
 ***
 
