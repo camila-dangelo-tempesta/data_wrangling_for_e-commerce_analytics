@@ -66,6 +66,7 @@ The project was divided into two parts:
 		* Pair Plot
 	* **Categorical Variables**
 		* Count Plot
+		* kdeplot
 
 - [x] **Step 03:** **EDA Part 2
 
