@@ -69,6 +69,7 @@ The project was divided into two parts:
 		* kdeplot
 
 - [x] **Step 03:** **EDA Part 2**
+	* Business Questions
 
 ***
 
