@@ -2,48 +2,46 @@
 
 ## Exploratory Analysis and Data Wrangling For E-Commerce Analytics
 
-An international e-commerce (E-commerce) company that sells products electronics wants to discover important information from its customer database.
-The products are stored in a warehouse at the company's headquarters. After completing the purchases on the company's website, the customer receives the product at home, anywhere in the world.
+An international electronic commerce (E-commerce) company that sells electronic products wants to discover important information from its customer database.
 
-Products are shipped by Ship, Airplane or Truck, depending on the region of delivery.
-On each purchase the customer can receive a discount depending on the weight of the product bought. 
+At the company's headquarters, the products are stored in a warehouse. After completing the purchase on the company's website, the customer receives the product at home, anywhere in the world. Products are shipped by Ship, Airplane or Truck, depending on the delivery region. On each purchase the customer can receive a discount depending on the weight of the product purchased.
 
-Each customer can make calls to the company's support in case of questions or problems and after receiving the product the customer can leave a review about the experience of purchase.
-The only personal data about the customer that is available is gender.
+Each customer can make calls to the company's support in case of questions or problems and after receiving the product the customer can leave a comment about the shopping experience. The only personal data available about the customer is gender.
 
 <div align="center">
 <p float="left">
-    <img src="/images/ecommerce.jpg" width="750" height="500"/>
+    <img src="/images/eda.png" width="1000" height="500"/>
 </p>
 </div>
 
 ***
 ## 1. BUSINESS PROBLEMS
 
-Our objective working with this project is to explore the data, understand how they are organized, detect possible problems and analyze the data from different perspectives.
-We will work with fictitious data that represents real data from an ECommerce company.
+Our goal in working with this project is to explore the data, understand how it is organized, detect potential problems, and analyze the data from different perspectives.
+
+After the EDA, we perform an attribute engineering. Where the objective will be created variables (new features) that us
+help to understand the data in a more simplified way and from different perspectives.
+
+We will work with dummy data that represents real data from an e-commerce company.
  
 ***
 ## 2. BUSINESS ASSUMPTIONS
 
-The project was divided into two parts:
+The project was divided into four parts:
 
  * **Part 1**:  Exploratory Analysis brings the technical details with analysis statistics, data visualization, interpretation of graphs and tables, univariate analysis and bivariate and completion report.
 
  * **Part 2**: The focus is on Exploratory Analysis to answer business questions, where the data is manipulated through Data Wrangling with Pandas and analyzed by different perspectives.
+ 
+ * **Part 3**: Attribute Engineering
+ 
+  * **Part 4**: Pre-processing
 
 ***
 ## 3. SOLUTION PLANNING
 
-- [x] **Step 01:** **Data Cleaning**
-	* Data Description
-	* Data Dimensions
-	* Data Types
-	* Chech NA
-	* Fill Na
-	* Data View
+- [x] **STEP 01:** **EDA Part 1**
 
-- [x] **Step 02:** **EDA Part 1**
 1. **Separation of Categorical and Numerical Variables**
 	* **Exploring Numerical Variables**
 		* Descriptive Statistica
@@ -68,7 +66,19 @@ The project was divided into two parts:
 		* Count Plot
 		* kdeplot
 
-- [x] **Step 03:** **EDA Part 2**
+- [x] **STEP 02:** **EDA Part 2**
+	* Business Questions
+	
+- [x] **STEP 03:** **Data Cleaning**
+	* Treatment of Missing Values
+	* Treatment of Duplicate Values
+	* Treatment of Outliers Values
+	* Class Imbalance Handling
+	
+- [ ] **STEP 04:** **Attribute Engineering**
+
+- [ ] **STEP 05:** **Pre-processing**
+	
 
 ***
 
