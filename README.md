@@ -75,7 +75,9 @@ The project was divided into four parts:
 	* Treatment of Outliers Values
 	* Class Imbalance Handling
 	
-- [ ] **STEP 04:** **Attribute Engineering**
+- [x] **STEP 04:** **Attribute Engineering**
+	* Feature Selection
+	* Feature Extraction
 
 - [ ] **STEP 05:** **Pre-processing**
 	
