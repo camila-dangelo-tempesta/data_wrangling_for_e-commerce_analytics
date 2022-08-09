@@ -10,7 +10,7 @@ Each customer can make calls to the company's support in case of questions or pr
 
 <div align="center">
 <p float="left">
-    <img src="/images/eda.png" width="1000" height="500"/>
+    <img src="/images/analytics.jpg" width="1000" height="500"/>
 </p>
 </div>
 
