@@ -40,15 +40,8 @@ The project was divided into four parts:
 ***
 ## 3. SOLUTION PLANNING
 
-- [x] **Step 01:** **Data Cleaning**
-	* Data Description
-	* Data Dimensions
-	* Data Types
-	* Chech NA
-	* Fill Na
-	* Data View
+- [x] **STEP 01:** **EDA Part 1**
 
-- [x] **Step 02:** **EDA Part 1**
 1. **Separation of Categorical and Numerical Variables**
 	* **Exploring Numerical Variables**
 		* Descriptive Statistica
@@ -73,12 +66,18 @@ The project was divided into four parts:
 		* Count Plot
 		* kdeplot
 
-- [x] **Step 03:** **EDA Part 2**
+- [x] **STEP 02:** **EDA Part 2**
 	* Business Questions
 	
-- [ ] **Step 04:** **Attribute Engineering**
+- [x] **STEP 03:** **Data Cleaning**
+	* Treatment of Missing Values
+	* Treatment of Duplicate Values
+	* Treatment of Outliers Values
+	* Class Imbalance Handling
+	
+- [ ] **STEP 04:** **Attribute Engineering**
 
-- [ ] **Step 05:** **Pre-processing**
+- [ ] **STEP 05:** **Pre-processing**
 	
 
 ***
