@@ -10,7 +10,7 @@ Each customer can make calls to the company's support in case of questions or pr
 
 <div align="center">
 <p float="left">
-    <img src="/images/eda.png" width="1000" height="500"/>
+    <img src="/images/analytics.jpg" width="1000" height="500"/>
 </p>
 </div>
 
@@ -35,7 +35,7 @@ The project was divided into four parts:
  
  * **Part 3**: Attribute Engineering
  
-  * **Part 4**: Pre-processing
+  * **Part 4**: Pre-processing where the objective is to pre-process the data for a predictive modeling step.
 
 ***
 ## 3. SOLUTION PLANNING
@@ -79,8 +79,14 @@ The project was divided into four parts:
 	* Feature Selection
 	* Feature Extraction
 
-- [ ] **STEP 05:** **Pre-processing**
-	
+- [x] **STEP 05:** **Pre-processing**
+	* Categorical Variables
+		- Label Encoding
+		- One-Hot Encoding
+	* Numerical Variables: Feature Scaling
+		- Normalization
+		- Standardization
+
 
 ***
 
