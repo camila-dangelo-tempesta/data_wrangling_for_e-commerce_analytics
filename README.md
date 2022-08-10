@@ -35,7 +35,7 @@ The project was divided into four parts:
  
  * **Part 3**: Attribute Engineering
  
-  * **Part 4**: Pre-processing
+  * **Part 4**: Pre-processing where the objective is to pre-process the data for a predictive modeling step.
 
 ***
 ## 3. SOLUTION PLANNING
