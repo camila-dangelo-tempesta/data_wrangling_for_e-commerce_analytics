@@ -1,6 +1,6 @@
-# **EDA and Data Wrangling for E-Commerce Analytics**
+# **E-Commerce Analytics**
 
-## Exploratory Analysis and Data Wrangling For E-Commerce Analytics
+## Exploratory Analysis, Attribute Engineering and Data Preprocessing
 
 An international electronic commerce (E-commerce) company that sells electronic products wants to discover important information from its customer database.
 
