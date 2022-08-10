@@ -79,8 +79,14 @@ The project was divided into four parts:
 	* Feature Selection
 	* Feature Extraction
 
-- [ ] **STEP 05:** **Pre-processing**
-	
+- [x] **STEP 05:** **Pre-processing**
+	* Categorical Variables
+		- Label Encoding
+		- One-Hot Encoding
+	* Numerical Variables: Feature Scaling
+		- Normalization
+		- Standardization
+
 
 ***
 
