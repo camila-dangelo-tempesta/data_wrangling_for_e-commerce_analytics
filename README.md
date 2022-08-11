@@ -1,6 +1,6 @@
-# **EDA and Data Wrangling for E-Commerce Analytics**
+# **E-Commerce Analytics**
 
-## Exploratory Analysis and Data Wrangling For E-Commerce Analytics
+## Exploratory Analysis, Attribute Engineering and Data Preprocessing
 
 An international electronic commerce (E-commerce) company that sells electronic products wants to discover important information from its customer database.
 
@@ -86,8 +86,14 @@ The project was divided into four parts:
 	* Numerical Variables: Feature Scaling
 		- Normalization
 		- Standardization
+		
+- [x] **STEP 06:** **Power BI**
 
-
+<div align="center">
+<p float="left">
+    <img src="/images/dash.png" width="1000" height="500"/>
+</p>
+</div>
 ***
 
 Made By **Camila D'Angelo**
