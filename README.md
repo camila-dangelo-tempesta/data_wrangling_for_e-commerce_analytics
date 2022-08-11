@@ -86,8 +86,14 @@ The project was divided into four parts:
 	* Numerical Variables: Feature Scaling
 		- Normalization
 		- Standardization
+		
+- [x] **STEP 06:** **Power BI**
 
-
+<div align="center">
+<p float="left">
+    <img src="/images/dash.png" width="1000" height="500"/>
+</p>
+</div>
 ***
 
 Made By **Camila D'Angelo**
